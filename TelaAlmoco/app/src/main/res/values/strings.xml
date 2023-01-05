@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">TelaAlmoco</string>
+    <string name="voltar">Voltar</string>
+    <string name="atualiza">Atualizar Refeição</string>
+    <string name="segfeira">2F</string>
 </resources>
